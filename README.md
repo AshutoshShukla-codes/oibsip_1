@@ -10,9 +10,4 @@
 <p>I have selected the <b>Logistic Regression model</b> as it is giving the perfect results</p>
 <p><b>Logistic Regression :</b>It is one of the most popular Machine Learning algorithms, which comes under the Supervised Learning technique. It is used for predicting the categorical dependent variable using a given set of independent variables.</p>
 <p><b>Sigmoid function</b>is the mathematical function behind the Logistic Regression algorithm : sig(z) = 1/1+e^(-z)</p>
-<p>                 precision    recall  f1-score   support
-
-    Iris-setosa       1.00      1.00      1.00        11
-Iris-versicolor       1.00      1.00      1.00         9
- Iris-virginica       1.00      1.00      1.00        10
- </p>
+<p>The model is giving precision, recall, f1-score as 1.0</p>
